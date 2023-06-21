@@ -4,7 +4,8 @@
 	/**
 	 * print_alphabet - print all alphabet in lowercase
 	 *
-	 * * Description: This function prints all the lowercase alphabets from 'a' to 'z'.
+	 * * Description: This function prints all
+	 *  the lowercase alphabets from 'a' to 'z'.
 	 */
 
 
